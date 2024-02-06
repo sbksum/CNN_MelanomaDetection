@@ -38,7 +38,7 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 ![datasetdf3](https://github.com/sbksum/CNN_MelanomaDetection/blob/main/Readme_Files/3.png)
 
 ### Model Evaluation
-![datasetdf6](https://github.com/sbksum/CNN_MelanomaDetection/blob/main/Readme_Files/6.png)
+![modeleval](https://github.com/sbksum/CNN_MelanomaDetection/blob/main/Readme_Files/6.png)
 
 ## References
 Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
